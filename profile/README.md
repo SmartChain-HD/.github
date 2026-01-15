@@ -12,7 +12,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/smartchain-esg)
 
-[주요 기능](#-주요-기능) • [아키텍처](#-아키텍처) • [레포지토리](#-레포지토리) • [시작하기](#-시작하기) • [팀 소개](#-팀-소개)
+[주요 기능](#-주요-기능) • [아키텍처](#-아키텍처) • [레포지토리](#-레포지토리) • [팀 소개](#-팀-소개)
 
 </div>
 
