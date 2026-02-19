@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="200" height="200" alt="SmartChain Logo" src="https://github.com/user-attachments/assets/d796f1cb-47e0-488c-999c-0b2d8c5603c0" />
+![logo](https://github.com/user-attachments/assets/5df79130-ae3d-4581-ae58-a52b9cdff308)
 
 # SmartChain
 
